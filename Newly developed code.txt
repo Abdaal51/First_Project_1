@@ -1,0 +1,8 @@
+Newly developed code 
+
+1. Start the analysis process
+2. Collect the data for initializing the coding process
+3. Coding
+4. Testing
+5. Support
+6. Feedback
